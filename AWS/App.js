@@ -20,7 +20,7 @@ const instructions = Platform.select({
 });
 
 
-export default class AA extends Component {
+export default class SSSSS extends Component {
   render() {
     return (
       <View style={styles.container}>
